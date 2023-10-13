@@ -6,6 +6,7 @@ import {
   Route,
 } from "react-router-dom"
 import Headline from './component/Headline'
+import About from './About/About'
 
 export default class App extends Component {
   render() {
@@ -15,6 +16,7 @@ export default class App extends Component {
      <div className='container'>
      <Routes>
       <Route path="/" element={<Headline/>}/>
+      <Route path="/about" element={<About/>}/>
      </Routes>
      </div>
      </BrowserRouter>
