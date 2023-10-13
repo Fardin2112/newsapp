@@ -91,13 +91,12 @@ export default class Headline extends Component {
             loading: false
         }
     }
-
-    componentDidMount(){
-        let url = 'https://newsapi.org/v2/everything?' +
-        'q=Apple&' +
-        'from=2023-10-13&' +
-        'sortBy=popularity&' +
-        'apiKey=c0c043e9faae4280b5bac64136302df6';
+    // here i am doing API fetch
+    async componentDidMount(){
+        let url ="https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=c0c043e9faae4280b5bac64136302df6";
+        let data = await fetch(url);
+        let parsedData = await data.json();
+        this.setState({articles: parsedData.articles})
     }
     render() {
         return (
@@ -111,7 +110,10 @@ export default class Headline extends Component {
                             //col-md-4 here used to divied col into 3 parts equally bec bootstrap have 12 col so 12/4=3
                             // key used to make every array element unique
                             return <div className="col-md-4  my-3" key={element.url}> 
-                                <Newsitems  title={element.title.slice(0,45)} imageUrl={element.urlToImage} url={element.url} description={element.description.slice(0,30)} />
+                                <Newsitems  title={element.title?element.title.slice(0,45):" "}
+                                 imageUrl={element.urlToImage?element.urlToImage :"http://3.bp.blogspot.com/-_d6Vx1hSOGY/VTQCdEej5iI/AAAAAAAAATM/Fu5aBKq3U_Y/s1600/404.png"}
+                                 url={element.url} 
+                                 description={element.description?element.description.slice(0,30):" "} />
                             </div>
                         })}
                     </div>
