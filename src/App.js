@@ -15,7 +15,7 @@ export default class App extends Component {
      <Navbar/>
      <div className='container'>
      <Routes>
-      <Route path="/" element={<Headline/>}/>
+      <Route path="/" element={<Headline country="in"/>}/>
       <Route path="/about" element={<About/>}/>
      </Routes>
      </div>
