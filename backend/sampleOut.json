@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+   {
+    "source":{
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Arjun Kharpal",
+    "title": "Chip equipment firm ASML reports profit rise buts warns of flat 2024 amid tough market - CNBC",
+    "description": "ASML reported a decline a profit decline in the third quarter but beat estimates as it forecast 2024 revenue to be flat.",
+    "url": "https://www.cnbc.com/2023/10/18/asml-earnings-report-q3-2023.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107133796-1665657140922-gettyimages-957830374-AFP_14N6HC.jpeg?v=1697608346&w=1920&h=1080",
+    "publishedAt": "2023-10-18T05:52:26Z",
+    "content": "Chip equipment firm ASML reported a year-on-year rise in profit in the third quarter and beat analyst estimates, but forecast 2024 revenue will be flat.\r\nASML is one of the most important semiconduct… [+2162 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Samantha Subin",
+    "title": "Stock futures inch lower on Wednesday as earnings season picks up steam: Live updates - CNBC",
+    "description": "Wall Street assessed fresh earnings reports from financial institutions and grappled with a rise in bond yields during regular trading.",
+    "url": "https://www.cnbc.com/2023/10/17/stock-market-today-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308332-1695915125037-nyse3.jpg?v=1697580166&w=1920&h=1080",
+    "publishedAt": "2023-10-18T05:31:00Z",
+    "content": "Stock futures inched lower on Wednesday as earnings season gained steam and Wall Street looked ahead to more key financial reports.\r\nFutures connected to the Dow Jones Industrial Average dipped 0.1%,… [+1868 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "CoinDesk"
+    },
+    "author": "Sam Reynolds",
+    "title": "Spot Bitcoin ETF Approvals Could Add $1 Trillion to Crypto Market Cap, CryptoQuant Says - CoinDesk",
+    "description": "Blockchain analytics firm CryptoQuant’s models predict that $155 billion will flow into the bitcoin market cap should the ETFs be approved.",
+    "url": "https://www.coindesk.com/markets/2023/10/18/spot-bitcoin-etf-approvals-could-add-1-trillion-to-crypto-market-cap-cryptoquant-says/",
+    "urlToImage": "https://www.coindesk.com/resizer/C8yqxagJEupXxE6r3FGYY8q6UrM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BAS6BC7ICZEKNK6NMHVIHJEAFA.jpg",
+    "publishedAt": "2023-10-18T05:13:00Z",
+    "content": "Bitcoin will become a $900 billion asset, and the total crypto market will grow by $1 trillion, should the bitcoin spot exchange-traded funds (ETFs) be approved, data analytics firm CryptoQuant wrote… [+2296 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "News12.com"
+    },
+    "author": null,
+    "title": "United Airlines announces window seat passengers will board first under new policy - News 12 Bronx",
+    "description": "The airline announced that starting on Oct. 26, people with window seats in the economy section will board first.",
+    "url": "https://bronx.news12.com/united-airlines-announces-window-seat-passengers-will-board-first-under-new-policy",
+    "urlToImage": "https://images-cf.news12static.com/3kqcuzntcg31/4ODnTUehM6ivD2mHmf2kK1/1336c0ef1e5097480b403723c14ad64a/c3fab118-6553-4152-8ff0-49f18fe20cff.0000000.jpg?fit=thumb&w=1920&h=1080&q=80",
+    "publishedAt": "2023-10-18T04:11:25Z",
+    "content": null
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Dow Jones Futures Fall: Market Rally Rangebound, Five Stocks Near Buy Points; Tesla Earnings Due - Investor's Business Daily",
+    "description": "Treasury yields soared toward 16-year highs. Tesla earnings loom.",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-rangebound-tesla-earnings-due/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2023/09/A1-091123-teslaprices-shutt.jpg",
+    "publishedAt": "2023-10-18T02:20:00Z",
+    "content": "Dow Jones futures fell slightly overnight, along with S&amp;P 500 futures and Nasdaq futures.\r\nXThe stock market rally initially slid as Nvidia (NVDA) fell on tighter U.S. restrictions on AI chip exp… [+8594 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Clement Tan",
+    "title": "China's third-quarter growth exceeds forecast, buoyed by consumer spending and industrial production - CNBC",
+    "description": "China's third-quarter economic growth came in stronger than expected, boosting hopes that the world's second-largest economy will meet Beijing's annual target this year.",
+    "url": "https://www.cnbc.com/2023/10/18/china-economy-q3-gdp.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107315151-1697028812570-gettyimages-1466535522-vcg111422691726.jpeg?v=1697594947&w=1920&h=1080",
+    "publishedAt": "2023-10-18T02:09:00Z",
+    "content": "Tourists enjoy the night view along the Jialing River on February 15, 2023 in Chongqing, China.\r\nChina's third-quarter economic growth came in stronger than expected, boosting hopes that the world's … [+3033 chars]"
+    },
+   {
+    "source":{
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Israel Latest: Biden to Visit as Oil Climbs After Hospital Blast - Bloomberg",
+    "description": "President Joe Biden travels to Israel with tensions high after an explosion at a Gaza hospital killed hundreds of people. Oil rallied following the blast and Arab leaders canceled a planned summit with Biden on Wednesday, complicating his push to contain a co…",
+    "url": "https://www.bloomberg.com/news/articles/2023-10-17/israel-latest-biden-plans-mideast-trip-in-drive-to-contain-war",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOLKGJe26uv8/v0/1200x800.jpg",
+    "publishedAt": "2023-10-18T02:08:00Z",
+    "content": "President Joe Biden travels to Israel with tensions high after an explosion at a Gaza hospital killed hundreds of people. Oil rallied following the blast and Arab leaders canceled a planned summit wi… [+349 chars]"
+    },
+   {
+    "source":{
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": "Winnie Hsu",
+    "title": "Stock Market Today: Dow, S&P Live Updates for October 18 - Bloomberg",
+    "description": "Asian stocks fluctuated as traders weighed better-than-expected China data against intensifying Middle East tensions. The Bank of Japan announced unscheduled bond purchases to stem a rise in yields.",
+    "url": "https://www.bloomberg.com/news/articles/2023-10-17/stock-market-today-dow-s-p-live-updates",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilMHFwm.EKqk/v0/1200x800.jpg",
+    "publishedAt": "2023-10-18T02:00:21Z",
+    "content": "Asian stocks fluctuated as traders weighed better-than-expected China data against intensifying Middle East tensions. The Bank of Japan announced unscheduled bond purchases to stem a rise in yields. … [+289 chars]"
+    },
+   {
+    "source":{
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Clare Jim, Scott Murdoch",
+    "title": "China's Country Garden offshore debt default looms - Reuters",
+    "description": "Country Garden Holdings <a href=\"https://www.reuters.com/markets/companies/2007.HK\" target=\"_blank\">(2007.HK)</a>, China's biggest private property developer, is less than an hour away from a potential default on its $11 billion in overseas debt as it has yet…",
+    "url": "https://www.reuters.com/markets/asia/chinas-country-garden-offshore-debt-default-looms-2023-10-18/",
+    "urlToImage": "https://www.reuters.com/resizer/0sn8blvM1naRtzf0rqEdIRdajxk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQEJIZSJ4FLI7JVPW2KKX7XCDY.jpg",
+    "publishedAt": "2023-10-18T01:11:00Z",
+    "content": "HONG KONG, Oct 18 (Reuters) - Country Garden Holdings (2007.HK), China's biggest private property developer, is less than an hour away from a potential default on its $11 billion in overseas debt as … [+3178 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Todd Spangler",
+    "title": "Elon Musk’s X/Twitter to Charge $1 per Year for Users to Post on the Platform, Starting With Test in Two Countries - Variety",
+    "description": "Elon Musk has kicked off his plan to charge users of X, formerly known as Twitter, to post content to the social network.",
+    "url": "https://variety.com/2023/digital/news/x-twitter-charge-users-one-dollar-per-year-test-1235760066/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/07/Elon-Musk-Twitter-Lawsuit.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2023-10-18T00:48:00Z",
+    "content": "Elon Musk has kicked off his plan to charge users of X, formerly known as Twitter, to post content to the social network.\r\nAs of Oct. 17, 2023, X said in a post on its website that it has started tes… [+2328 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "Stellantis, citing UAW strike, backs out of Las Vegas tech show set for next year - Fox Business",
+    "description": "Dodge and Chrysler owner Stellantis on Tuesday announced the automaker will no longer be presenting at CES 2024 in Las Vegas, blaming the ongoing United Auto Workers strike.",
+    "url": "https://www.foxbusiness.com/markets/stellantis-citing-uaw-strike-backs-out-las-vegas-tech-show-set-next-year",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/stellantis-presentation.jpg?ve=1&tl=1",
+    "publishedAt": "2023-10-18T00:23:45Z",
+    "content": "Stellantis on Tuesday announced it will no longer participate in the CES technology show in Las Vegas early next year as planned, saying it needs to focus on business right now due to the United Auto… [+2948 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "The Eastsider LA"
+    },
+    "author": "The Eastsider LA",
+    "title": "Glassell Park Rite Aid store to close under bankruptcy plans - The Eastsider LA",
+    "description": null,
+    "url": "https://www.theeastsiderla.com/neighborhoods/glassell_park/glassell-park-rite-aid-store-to-close-under-bankruptcy-plans/article_d09cd398-6d4b-11ee-b6ef-87e2bd509c46.html",
+    "urlToImage": null,
+    "publishedAt": "2023-10-18T00:18:00Z",
+    "content": null
+    },
+   {
+    "source":{
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "David Shepardson",
+    "title": "Tesla urges US to adopt much tougher fuel efficiency rules - Reuters",
+    "description": "Electric vehicle manufacturer Tesla <a href=\"https://www.reuters.com/markets/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> on Tuesday urged the Biden administration to finalize much tougher fuel economy standards through 2032 than U.S. regulators have propos…",
+    "url": "https://www.reuters.com/business/autos-transportation/tesla-says-us-should-adopt-tougher-fuel-efficiency-rules-2023-10-17/",
+    "urlToImage": "https://www.reuters.com/resizer/QCxPiRAK49B3tACWlzaxn7cFBX8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FIU4HQ2KXBJ3LKZWXZLD7PJBFM.jpg",
+    "publishedAt": "2023-10-17T23:44:00Z",
+    "content": "WASHINGTON, Oct 17 (Reuters) - Electric vehicle manufacturer Tesla (TSLA.O) on Tuesday urged the Biden administration to finalize much tougher fuel economy standards through 2032 than U.S. regulators… [+2268 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Goldman Sachs Profit Slumps 33%; CEO Pleads Patience on Pivot - Bloomberg Television",
+    "description": "Goldman Sachs Group Inc.'s property investments drove a $212 million loss in the equity book last quarter and an additional $358 million in impairments contr...",
+    "url": "https://www.youtube.com/watch?v=cUkwFuckN24",
+    "urlToImage": "https://i.ytimg.com/vi/cUkwFuckN24/maxresdefault.jpg",
+    "publishedAt": "2023-10-17T23:27:55Z",
+    "content": null
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Julie Coleman",
+    "title": "Jim Cramer’s guide to investing: If you’re confident in your thesis, stick with it - CNBC",
+    "description": "CNBC's Jim Cramer said he made the mistake of giving up on his bull thesis when he sold Boeing for the CNBC Investing Club's Charitable Trust.",
+    "url": "https://www.cnbc.com/2023/10/17/jim-cramers-guide-to-investing-stick-with-your-thesis.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076111-1655348149947-IMG_2283rb.jpg?v=1697583448&w=1920&h=1080",
+    "publishedAt": "2023-10-17T22:57:28Z",
+    "content": "CNBC's Jim Cramer said investors should not be dissuaded by naysayers if they have a thesis they feel strongly about.\r\nCramer said he made the mistake of giving up on his bull thesis when he sold Boe… [+1213 chars]"
+    },
+   {
+    "source":{
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Doc Louallen",
+    "title": "Alabama man wins $2.4 million in Florida lottery cash 'for life' game - USA TODAY",
+    "description": "With just $5 and a trip to Florida, an Alabama resident confidently secured a lifetime lottery prize of $150,000 per year.",
+    "url": "https://www.usatoday.com/story/money/2023/10/17/alabama-man-wins-two-million-from-florida-lottery/71220106007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/17/USAT/71220324007-microsoft-teamsimage-87.png?crop=1289,726,x0,y53&width=1289&height=726&format=pjpg&auto=webp",
+    "publishedAt": "2023-10-17T22:31:27Z",
+    "content": "A lucky man from Alabama turned $5 and a trip to Florida into a lottery prize of $2.4 million, which he chose over $150,000 annually, for the rest of his life.\r\nGary Thomas, a 49-year-old resident of… [+2604 chars]"
+    },
+   {
+    "source":{
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Jessica Guynn",
+    "title": "New Popeye's 'TRUFF' chicken sandwich heats up chicken sandwich wars - USA TODAY",
+    "description": "Popeyes says it's serving up its original chicken sandwich topped with TRUFF’s Spicy Mayo for a limited time.",
+    "url": "https://www.usatoday.com/story/money/food/2023/10/17/new-popeyes-chicken-sandwich-truff-spicy-mayo/71220531007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/17/USAT/71220972007-082073-truff-sandwiches-abmc-1902-x-1080.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+    "publishedAt": "2023-10-17T22:19:09Z",
+    "content": "Its a new mashup made for chicken sandwich lovers who crave more heat and fancier flavor.\r\nFor a limited time, Popeyes is serving up its original chicken sandwich topped with TRUFFs Spicy Mayo, which… [+1281 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Wallace Witkowski",
+    "title": "Nvidia says China AI chip ban could result in delays, transition of operations - MarketWatch",
+    "description": "Nvidia Corp. said late Tuesday a widened U.S. ban on AI tech products to China could delay its current rollout, but did not foresee a meaningful financial...",
+    "url": "https://www.marketwatch.com/story/nvidia-says-china-ai-chip-ban-could-result-in-delays-transition-of-operations-39245c5b",
+    "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+    "publishedAt": "2023-10-17T22:13:00Z",
+    "content": "Nvidia Corp. \r\n NVDA,\r\n -4.68%\r\nsaid late Tuesday a widened U.S. ban on AI tech products to China could delay its current rollout, but did not foresee a meaningful financial impact near term, accordi… [+873 chars]"
+    },
+   {
+    "source":{
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Saeed Azhar, Nupur Anand",
+    "title": "Bank of America's unrealized losses on securities rose to $131.6 bln - Reuters",
+    "description": "Bank of America <a href=\"https://www.reuters.com/markets/companies/BAC.N\" target=\"_blank\">(BAC.N)</a> reported unrealized losses of $131.6 billion on securities in the third quarter, growing from the second quarter, but the bank does not expect the portfolio …",
+    "url": "https://www.reuters.com/business/finance/bank-americas-unrealized-losses-securities-rose-1316-bln-2023-10-17/",
+    "urlToImage": "https://www.reuters.com/resizer/6YJVsQ4y8tA_omw4IuRNkb7C2wI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/776BIDACNJIRFG4NEDS3QVFWAI.jpg",
+    "publishedAt": "2023-10-17T21:58:00Z",
+    "content": "NEW YORK, Oct 17 (Reuters) - Bank of America (BAC.N) reported unrealized losses of $131.6 billion on securities in the third quarter, growing from the second quarter, but the bank does not expect the… [+4190 chars]"
+    },
+   {
+    "source":{
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "BofA CEO Moynihan on Earnings, New Bank Rules, Mideast - Bloomberg Television",
+    "description": "Bank of America CEO Brian Moynihan says consumers are moving from cash into the market and spending less on credit and debt cards. Speaking with David Westin...",
+    "url": "https://www.youtube.com/watch?v=-otjZ9U1Nuw",
+    "urlToImage": "https://i.ytimg.com/vi/-otjZ9U1Nuw/hqdefault.jpg",
+    "publishedAt": "2023-10-17T21:50:02Z",
+    "content": null
+    }
+    ]
+    }
